@@ -1,4 +1,4 @@
 
 # Scroll Homepage using JavaScript
 
-![screenshot](./img/1.png)
+![screenshot](./1.png)
